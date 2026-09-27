@@ -1,5 +1,24 @@
 [
   {
+    "id": "tiktok-shop-creators-affiliate-arbitrage-hub-reddit-20260927-1",
+    "title": "r/analytics Search Console & GA4",
+    "platform": "Reddit",
+    "category": "Search Analytics",
+    "memberCount": "140,000+ members",
+    "description": "Google Search Console performance analysis, CTR anomalies, query cannibalization, and GA4 event tracking.",
+    "joinUrl": "https://www.reddit.com/r/analytics/",
+    "tags": [
+      "analytics",
+      "gsc",
+      "ga4",
+      "data"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "tiktok-shop-creators-affiliate-arbitrage-hub-reddit-20260925-1",
     "title": "r/growthhacking Programmatic Scaling",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
