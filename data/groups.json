@@ -1,5 +1,24 @@
 [
   {
+    "id": "tiktok-shop-creators-affiliate-arbitrage-hub-reddit-20261031-1",
+    "title": "r/forhire Freelance Creative Services",
+    "platform": "Reddit",
+    "category": "Client Hiring",
+    "memberCount": "390,000+ members",
+    "description": "Verified marketplace connecting direct response copywriters with business owners needing sales pages.",
+    "joinUrl": "https://www.reddit.com/r/forhire/",
+    "tags": [
+      "forhire",
+      "hiring",
+      "marketplace",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-31"
+  },
+  {
     "id": "tiktok-shop-creators-affiliate-arbitrage-hub-telegram-20261029-1",
     "title": "Freelance Writers Network Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-29"
   },
   {
